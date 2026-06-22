@@ -32,7 +32,7 @@ O objetivo do jogador é controlar a nave, destruir os obstáculos e inimigos do
 
 Para vencer, o jogador precisa sobreviver aos ataques das máquinas e completar todos os níveis.
 
-Regras do jogo
+Regras do jogo:
 
 O jogador controla uma nave que pode se movimentar e atirar.
 
@@ -48,7 +48,7 @@ Ao completar um nível, o jogador avança para o próximo cenário.
 
 A dificuldade aumenta a cada nível, seguindo a ordem: subsolo, terra firme e espaço.
 
-Controles
+Controles:
 
 Seta para cima: mover para cima
 
@@ -62,7 +62,7 @@ Espaço: atirar
 
 ESC: sair do jogo
 
-Como executar o projeto
+Como executar o projeto:
 
 1. Clonar o repositório
 git clone LINK_DO_REPOSITORIO
