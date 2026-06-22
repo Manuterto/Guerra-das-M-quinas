@@ -35,31 +35,48 @@ Para vencer, o jogador precisa sobreviver aos ataques das máquinas e completar 
 Regras do jogo
 
 O jogador controla uma nave que pode se movimentar e atirar.
+
 Os inimigos e obstáculos aparecem no mapa e devem ser destruídos.
+
 Cada obstáculo ou inimigo destruído aumenta a pontuação do jogador.
+
 O jogador deve evitar colisões e ataques das máquinas.
+
 Se a nave do jogador for destruída, a partida termina.
+
 Ao completar um nível, o jogador avança para o próximo cenário.
+
 A dificuldade aumenta a cada nível, seguindo a ordem: subsolo, terra firme e espaço.
 
 Controles
 
 Seta para cima: mover para cima
+
 Seta para baixo: mover para baixo
+
 Seta para esquerda: mover para esquerda
+
 Seta para direita: mover para direita
+
 Espaço: atirar
+
 ESC: sair do jogo
 
 Como executar o projeto
 
 1. Clonar o repositório
 git clone LINK_DO_REPOSITORIO
+
 cd NOME_DA_PASTA
+
 pip install -r requirements.txt
+
 python main.py
+
 Como executar os testes
+
 python -m pytest
+
 Checklist mínimo para entrega
 
 
